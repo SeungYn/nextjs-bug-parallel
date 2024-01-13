@@ -1,6 +1,6 @@
 import { ReactNode } from 'react';
 
-export function generateMatadata({
+export function generateMetadata({
   params: { id },
 }: {
   params: { id: number };
